@@ -4,7 +4,6 @@ import Link from "next/link";
 import Image from "next/image";
 
 import { slideUp, fadeOut, slideToggle, fadeToggle } from "@utils/animation";
-import { GetQuoteButton } from "@components/Buttons/GetQuoteButton";
 
 const Navbar = () => {
   const [toggleIconChanged, setToggleIconChanged] = useState(false);

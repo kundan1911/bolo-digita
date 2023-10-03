@@ -8,22 +8,22 @@ const SocialIcons = () => {
   return (
     <ul className="social-icons popup">
       <li>
-        <a href={LINKS.INSTAGRAM} rel="noreferrer">
+        <a href={LINKS.Instagram} rel="noreferrer">
           <FontAwesomeIcon icon={faInstagram} />
         </a>
       </li>
       <li>
-        <a href={LINKS.TWITTER} rel="noreferrer">
+        <a href={LINKS.Twitter} rel="noreferrer">
           <FontAwesomeIcon icon={faTwitter} />
         </a>
       </li>
       <li>
-        <a href={LINKS.GOOGLE} rel="noreferrer">
+        <a href={LINKS.Email} rel="noreferrer">
           <FontAwesomeIcon icon={faGoogle} />
         </a>
       </li>
       <li>
-        <a href={LINKS.GITHUB} rel="noreferrer">
+        <a href={LINKS.LinkedIn} rel="noreferrer">
           <FontAwesomeIcon icon={faGithub} />
         </a>
       </li>

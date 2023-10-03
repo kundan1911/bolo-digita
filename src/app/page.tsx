@@ -1,6 +1,4 @@
 import React from "react";
-import Image from "next/image";
-
 import { BackgroundShape } from "@components/BackgroundShape";
 import { NavButton } from "@components/Buttons/NavButton";
 import { ServicesSection } from "@components/Sections/ServicesSection";

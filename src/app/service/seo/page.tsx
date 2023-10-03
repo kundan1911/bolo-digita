@@ -2,7 +2,6 @@ import React from "react";
 
 import { InnerMain } from "@components/InnerMain";
 import { DescriptionService } from "@components/Service/DescriptionService";
-import { ProcessService } from "@components/Service/ProcessService";
 import { CDN } from "@utils/constant";
 
 const SEOPage = () => {
